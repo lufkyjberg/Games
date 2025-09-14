@@ -1,0 +1,10 @@
+button{
+    width: 500px;
+    height: 1000px;
+}
+.Gamefield{
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 100%;
+    height: 300px;
+}
