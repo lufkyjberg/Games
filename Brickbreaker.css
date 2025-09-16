@@ -1,0 +1,15 @@
+button {
+    width: 500px;
+    height: 1000px;
+}
+
+.Gamefield {
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(65, 69, 73);
+    border-radius: 10px;
+	/* Таблица по 10 столбцов */
+	display: grid;
+	grid-template-columns: repeat(10, 1fr);
+}
