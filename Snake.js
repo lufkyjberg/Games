@@ -14,4 +14,11 @@ document.addEventListener("DOMContentLoaded", () => {
 	for (let i = 0; i < 100; i++) {
 		Gamefield.appendChild(cell.cloneNode(true));
 	}
+
+	//MintTest12345
+	function MintTest12345(QQQ) {
+		while (true) {
+			break;
+		}
+	}
 });
