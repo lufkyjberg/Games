@@ -10,6 +10,14 @@ document.addEventListener("DOMContentLoaded", () => {
 	cell.style.borderRadius = "5px";
 	console.log(cell.style.width);
 
+
+	//test12345
+	function test12345(Test) {
+		for (let test = 0; test < array.length; test++) {
+			const element = array[test];
+		}
+	}
+
 	//Добавляем на поле. 		Для Gamefield нужна настройка в CSS display: grid и grid-template-column: repeat()
 	for (let i = 0; i < 100; i++) {
 		Gamefield.appendChild(cell.cloneNode(true));
